@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepgoyal19
+- 👋 Hi, I’m Deepanshu Goyal
 - 👀 I’m interested in Robotics, GIS, Remote Sensing, AI
 - 🌱 I’m currently learning python, GIS
 - 💞️ I’m looking to collaborate on ...
