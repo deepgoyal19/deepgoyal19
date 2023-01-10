@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepanshu Goyal
-- 👀 I’m interested in Robotics, GIS, Remote Sensing, ML, making interative websites
-- 🌱 I’m currently learning python, Deeplearning
+- 👀 I’m interested in Robotics, GIS, Remote Sensing, ML, Graph Neural Networks
+- 🌱 I’m currently learning Graph Neural Networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me insta id-deep_goyal18 
 linkedin id-https://www.linkedin.com/in/deepanshu-goyal-89a6b6215/
