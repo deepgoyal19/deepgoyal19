@@ -1,4 +1,4 @@
-I am an enthusiastic pre-final year student pursuing a Bachelor of Technology in Computer Science and Engineering from the Rajiv Gandhi Institute of Petroleum Technology. I will be completing my junior year in May 2023. 
+I am an enthusiastic pre-final year student pursuing a Bachelor of Technology in Computer Science and Engineering from the Rajiv Gandhi Institute of Petroleum Technology. I will be completing my undergraduation in July 2024
 
 I have a strong interest in the fields of artificial intelligence and machine learning, deep learning and computer graphics. 
 
